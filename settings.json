@@ -1,0 +1,12 @@
+{
+  "deno.enablePaths": [
+    "./"
+  ],
+  "deno.enable": true,
+  "editor.inlayHints.enabled": "off",
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "cSpell.words": [
+    "saokemttq"
+  ]
+}
